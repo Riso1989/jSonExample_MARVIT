@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Jules",
+    "city":"Bern",
+    "cars":[
+      "lexus",
+      "mercedes"
+    ],
+    "job":"Teacher"
+  },
+  {
+    "name":"Mark",
+    "city":"Oslo",
+    "cars":[
+      "VW",
+      "Toyata"
+    ],
+    "job":"Doctor"
+  }
+]
